@@ -1,0 +1,10 @@
+# Core dependencies for DIMY contact tracing implementation
+
+pycryptodome==3.20.0      # For ECC key generation, Diffie–Hellman, SHAKE128
+mmh3==4.1.0               # For MurmurHash3 used in Bloom filter hashing
+bitarray==2.9.2           # For efficient bit-level storage in Bloom filters
+subrosa==0.1.0            # For Shamir's Secret Sharing (k-out-of-n scheme)
+pynacl==1.5.0             # For X25519 / nacl.public Diffie–Hellman
+pyshamir==1.0.4           # Alternate Shamir Secret Sharing library
+
+# pip install -r requirements.txt
