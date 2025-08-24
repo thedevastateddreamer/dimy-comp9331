@@ -5,8 +5,8 @@ COMP4337/9337 — Securing Fixed and Wireless Networks
 Term 1, 2025
 
 ## Team Members
-- **Divya Tyagi** — z5514961  
-- **Haithm Ezzaddin** — z5482376  
+- **Divya Tyagi** 
+- **Haithm Ezzaddin** 
 - **Lab Session:** H11A
 
 ---
